@@ -1,6 +1,6 @@
 # Development of interactive platforms for city modeling and digital twins using React and MapLibre
 
-Autor: Walter Shilman, Sebastian Lopez, Ariel Anthieni
+Autors: Walter Shilman, Sebastian Lopez, Ariel Anthieni
 
 
 ## Index
@@ -14,7 +14,8 @@ Autor: Walter Shilman, Sebastian Lopez, Ariel Anthieni
 * Setting up develop workspace: apps, libs, dependencies, repositories
 * Code inspection and code detail 
 
-Break
+```python
+Break```
 
 * Q & A
 * Experiences working with Mesh data for Maplibre
