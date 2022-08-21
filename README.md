@@ -32,8 +32,9 @@ Break
 
 
 * Visual Studio Code
-* git client
+* Git client
 * Docker
+* Npm
 
 
 ## Repository 
