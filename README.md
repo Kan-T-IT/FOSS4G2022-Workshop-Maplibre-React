@@ -8,27 +8,27 @@ Autors: Walter Shilman, Sebastian Lopez, Ariel Anthieni
 * Introduction
 * State of the art of Digital Twins
 * Types of data ( Mesh, Raster, Vectorial, DEM, IFC, b3dm )
-* Architecture of mapviewer
-* Installing requirement
+* Architecture of the mapviewer
+* Installing requirements
 * Building your project
-* Setting up develop workspace: apps, libs, dependencies, repositories
+* Setting up the development workspace: apps, libs, dependencies, repositories
 * Code inspection and code detail 
 
 ```python
 Break
 ```
 
-* Q & A
+* Q&A
 * Experiences working with Mesh data for Maplibre
-* See the new project of Mesh and “Termo” 
-* Setting App Backend workspace 
-* Inspecting docker-compose.yaml
-* Deploy of Tile Server 
+* Quick look at a Mesh project and “Termo”
+* Setting up Backend workspace 
+* Inspecting docker-compose.yml
+* Deployment of the Tile Server 
 * Preparing your data
 * Connection between frontend mapviewer and local map server
 
 
-## Requeriment
+## Requeriments
 
 
 * Visual Studio Code
