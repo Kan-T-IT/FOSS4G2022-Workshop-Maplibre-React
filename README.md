@@ -41,7 +41,10 @@ Break
 
 * [Mapviewer (Frontend)](https://github.com/sebastianoscarlopez/foss4g2022-react-maplibre)
 * [Tile Server (Backend)](https://github.com/wshilman/tiles-server-docker)
-* [Preparing the Vector Tile (Data)]()
+* [Preparing the Vector Tile (Data)](https://github.com/Kan-T-IT/Preparing-VT-Data/)
 
+### Experimental - Project in progress...
 
+* [Map viewer - Mesh](https://github.com/sebastianoscarlopez/maplibre-b3dm)
 
+* Starting integration research with [IFC.js](https://ifcjs.github.io/info/)
